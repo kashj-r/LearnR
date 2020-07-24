@@ -278,5 +278,3 @@ If we try to change only one element of the dataframe, then it gives an error if
 	}
 	
 	billday(x= bday)
-	
-	git rm Working with dates.md
