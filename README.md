@@ -7,3 +7,5 @@ running but unless the concept behind the function or code is not clear, the app
 different sources and modified with personal understanding and help gain the conceptual knowledge behind them.  
 
 Further, since doing programming is an ever learning process, so I am always eager to learn more by discussing the issues and have better solutions proposed by anyone out there.
+
+Happy coding..!!
